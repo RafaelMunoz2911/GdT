@@ -1,0 +1,24 @@
+    o que ja foi feito:
+
+-cadastro de funcionarios
+
+-cadastros de função(atividades)
+
+-cadastro de eventos
+
+    o que falta:
+
+-interface grafica 
+
+-gerar .txt 
+
+-criar uma lista de liberação na p2
+
+
+
+        o que eu entendi ate agora:
+
+° Criar o banco de dados primeiro e linkar ele no main
+
+° Criar as funções fora do main e linkar esocial
+
