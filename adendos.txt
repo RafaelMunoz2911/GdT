@@ -20,5 +20,6 @@
 
 ° Criar o banco de dados primeiro e linkar ele no main
 
-° Criar as funções fora do main e linkar esocial
+° Criar as funções fora do main e linkar 
+
 
