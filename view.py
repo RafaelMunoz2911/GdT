@@ -35,7 +35,7 @@ def insert_contrato(descricao, id_funcionarios, data_i_even, data_t_even):
 #_____teste de funcoes______#
 #insert_funcao("Cozinheiro", "169,00")
 
-insert_funcionario("123", "fulano", "15652786663", "mg2101", "29-11-2002", "caucasiano", "Belo Horizonte", "União", "R.Álvares da Silva, 64", "123456", "123456789", "1", "123456789", "123456", "123456", "123")
+#insert_funcionario("123", "fulano", "15652786663", "mg2101", "29-11-2002", "caucasiano", "Belo Horizonte", "União", "R.Álvares da Silva, 64", "123456", "123456789", "1", "123456789", "123456", "123456", "123")
 
 #insert_contrato("SEFIP","1", "24-12-2024", "25-12-2024")
 
