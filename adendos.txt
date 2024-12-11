@@ -23,4 +23,3 @@
 ° Criar as funções fora do main e linkar 
 
 
-TESTE 

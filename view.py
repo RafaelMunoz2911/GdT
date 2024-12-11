@@ -29,9 +29,7 @@ def insert_contrato(descricao, id_funcionarios, data_i_even, data_t_even):
                 VALUES(?, ?, ?, ?)", (descricao, id_funcionarios, data_i_even, data_t_even))
     conn.commit()
     conn.close()
-    
-
-    
+       
 #_____teste de funcoes______#
 #insert_funcao("Cozinheiro", "169,00")
 
