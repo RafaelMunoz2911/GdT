@@ -8,6 +8,8 @@
 
     o que falta:
 
+-função para ver todos os funcionarios e manipular os mesmos 
+
 -interface grafica 
 
 -gerar .txt 
